@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Madhanmohan S 👋
 
-<!--
-**ermadhan/ermadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Engineering & Technology Leader** with 20+ years of experience taking complex, regulated platforms from **0-to-1 PoCs to mission-critical production** across aerospace, industrial automation, and AI-driven data systems.
 
-Here are some ideas to get you started:
+#### What I Build & Lead
+* **AI-Native Engineering:** Rapidly prototyping and hardening agentic workflows, multimodal pipelines, and context-grounded AI systems using modern coding agents (Claude Code, Cursor, GitHub Copilot).
+* **Regulated & Mission-Critical Platforms:** Architecting safety-critical, regulator-qualified data pipelines (DO-200B / DO-330 / DO-272) with deterministic guardrails and rigorous verification.
+* **0-to-1 Incubation & Scale:** Building innovation labs, defining reference architectures, and scaling cross-functional engineering teams from early prototypes to enterprise adoption.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Work
+* **[TransLumina](https://github.com):** Multimodal AI transcription and translation pipeline across 50+ languages.
+* **[TerraGraph](https://github.com):** 3D geospatial knowledge and elevation fusion engine combining NASA DEMs with Overture Maps.
+* **[DO272_Viewer](https://github.com) & [AeronauticalDataVisualization](https://github.com):** Aviation data validation and visualization tools built to strict industry standards.
