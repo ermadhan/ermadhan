@@ -8,6 +8,6 @@ I am an **Engineering & Technology Leader** with 20+ years of experience taking 
 * **0-to-1 Incubation & Scale:** Building innovation labs, defining reference architectures, and scaling cross-functional engineering teams from early prototypes to enterprise adoption.
 
 #### Featured Work
-* **[TransLumina](https://github.com):** Multimodal AI transcription and translation pipeline across 50+ languages.
-* **[TerraGraph](https://github.com):** 3D geospatial knowledge and elevation fusion engine combining NASA DEMs with Overture Maps.
-* **[DO272_Viewer](https://github.com) & [AeronauticalDataVisualization](https://github.com):** Aviation data validation and visualization tools built to strict industry standards.
+* **[TransLumina]([https://github.com](https://github.com/ermadhan/TransLumina)):** Multimodal AI transcription and translation pipeline across 50+ languages.
+* **[TerraGraph]([https://github.com](https://github.com/ermadhan/TerraGraph)):** 3D geospatial knowledge and elevation fusion engine combining NASA DEMs with Overture Maps.
+* **[DO272_Viewer]([https://github.com](https://github.com/ermadhan/DO272_Viewer)) & [AeronauticalDataVisualization]([https://github.com](https://github.com/ermadhan/AeronauticalDataVisualization)):** Aviation data validation and visualization tools built to strict industry standards.
