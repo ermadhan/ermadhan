@@ -1,4 +1,4 @@
-### Hi, I'm Madhanmohan S 👋
+### Hi, I'm Madhan 👋
 
 I am an **Engineering & Technology Leader** with 20+ years of experience taking complex, regulated platforms from **0-to-1 PoCs to mission-critical production** across aerospace, industrial automation, and AI-driven data systems.
 
